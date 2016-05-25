@@ -1,0 +1,70 @@
+h2 {
+  font-size: 15pt;
+  font-style: italic;
+}
+
+.section-head-wrapper {
+  float:left;
+  width: 25%;
+}
+
+.right-column p {
+  /*overflow: hidden;*/
+  padding-left: 30px;
+}
+
+.right-column li {
+  list-style-type: none;
+}
+.me{
+
+}
+
+.projects{
+
+}
+
+.experience{
+
+}
+
+*{
+  font-family: sans-serif;
+}
+
+.left-column{
+  width: 50%;
+  float: left;
+  /*background-color: yellow;*/
+}
+
+/*.left-column img{
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}*/
+
+.right-column{
+  width: 50%;
+  float: right;
+  /*background-color: blue;*/
+}
+
+img.headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resume-content {
+  width: 75%;
+  max-width: 33.75rem;
+  float: left;
+}
+
+p.list-item-title {
+  font-weight: bold;
+  color: #0099ff;
+  font-size: 14pt;
+}
